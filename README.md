@@ -1,6 +1,6 @@
 # projeto-individual-m4
 1: Existem outras entidades além dessas três?
-<p>R: Não, porque não há necessidade de inserir outras entidades. </p> 
+<p>R: sim, professor. </p> 
 
  2: Quais são os principais campos e tipos?
 <p>Nome,</p> 
